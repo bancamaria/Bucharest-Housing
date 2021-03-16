@@ -15,7 +15,7 @@ In the dataset linked below there are over three thousand apartments listed for 
   * Using all of these monthly averages, a clusterization algorithm grouped them into 5 classes, which were then labelled 1-5;
   * You can think of these scores as an indication of the value of the surrounding area, with 1 being expensive, and 5 being inexpensive.<br />
 
-Dataset Source: [Kaggle Denisa Dutca](kaggle.com/denisadutca)
+Dataset Source: [Kaggle Denisa Dutca](https://www.kaggle.com/denisadutca/bucharest-house-price-dataset/kernels)
 
 ## To do
 1. Get the data in a PyTorch-friendly format; think of ways of preprocessing the data (e.g. One Hot Encoding, etc.); (Don't forget to split the dataset in training and validation.)
